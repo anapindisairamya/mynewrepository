@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 0CCB-C266
+
+ Directory of C:\Users\SaiRamyaAnapindi\Desktop\GIT PROJECT 1
+
+25-10-2021  09:37    <DIR>          .
+25-10-2021  09:37    <DIR>          ..
+25-10-2021  09:37                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  161,990,942,720 bytes free
